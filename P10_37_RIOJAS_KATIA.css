@@ -1,0 +1,119 @@
+body{
+    width: 980px;
+    margin: 10px auto;
+    background-size: 100pw 100vh;
+    background:url(IMAGENES/fondivive6.jpg);
+    
+
+}
+
+header{
+    padding: 0 0 70px auto;
+}
+
+#logo{
+    float: top;
+    text-decoration: none;
+}
+#titulo{
+    display: block;
+    float: left;
+    
+}
+#nombre{
+    color:#fff;
+    size: 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+#nom{
+    text-align: left;
+}
+#texto{
+    text-align: left;
+    margin: 5%;
+    border: red 2px solid;
+    background-color: white;
+    padding: 40px ;
+}
+
+nav{
+    background-color:rgba(255, 255, 255, 0);
+    padding-left: 30px ;
+    height: 20px;
+
+}
+
+nav ul li{
+    display: inline;
+    padding: 0px 20px 5px 10px;
+    border-right: 3px solid #000000;
+}
+nav ul li a{
+    color: #000000;
+    text-decoration: none;
+}
+
+article{
+    margin: 20;
+    font-family: monospace;
+    
+}
+
+
+#titulo{
+  
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 25px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    
+    
+    
+}
+ #tit{
+     text-align: center;
+     font-size: 20px;
+     font-family: monospace;
+ }
+
+ 
+
+
+#registro{
+    width: 150%;
+    max-width: 500px;
+    margin: 35px;
+    background: rgba(248, 250, 248, 0);
+    border-radius: 7px;
+}
+input{
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 14px;
+    border-radius: 3px;
+    border: 1px solid rgba(255, 0, 0, 0);
+    
+}
+#inputs{
+padding: 10px 5px;
+display: flex;
+flex-wrap: wrap;
+display: flex;
+justify-content: space-between;
+background-color: rgba(59, 211, 67, 0);
+}
+
+.ci{
+    width:15% ;
+}
+.cien{
+    width: 90%;
+}
+#link{
+    color:black;
+}
